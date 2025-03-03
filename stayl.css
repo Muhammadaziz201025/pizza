@@ -1,0 +1,199 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Quicksand;
+}
+
+.big-content {
+    display: flex;
+    /* gap: 50px; */
+    padding: 0px;
+}
+
+.contayner {
+    width: 1600px;
+    height: 1000px;
+    margin: 0 auto;
+    /* margin: 0 auto; */
+    background-color: black;
+}
+
+.contayner1 {
+    background-color: floralwhite;
+    color: #FF5B00;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.vvvv {
+    background-color: #fff;
+}
+
+a {
+    color: #FF8C42;
+    text-decoration: none;
+    font-family: Quicksand;
+    font-size: 32px;
+    padding: 20px 20px;
+    font-family: Quicksand;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+
+}
+
+.navbar {
+    display: flex;
+    gap: 0px;
+}
+
+.navbar1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.big {
+    width: 100%;
+    color: #FF8C42;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lav {
+    font-size: 76px;
+    font-weight: 600;
+}
+
+.krn {
+    padding: 50px 0px;
+    font-family: Quicksand;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 45px;
+}
+
+.katta {
+    font-family: Quicksand;
+    padding: 0px 70px;
+}
+
+.rasim {
+    width: 700px;
+    height: 700px;
+}
+
+.btn2 {
+    border: 1px solid #FF8C42;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+}
+
+.btn {
+    background-color: #FF8C42;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+
+}
+
+.btn1 {
+    height: 40px;
+    width: 120px;
+    background-color: #FF8C42;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.oxri {
+    position: relative;
+}
+
+.rasim2 {
+    position: absolute;
+    bottom: 30px;
+    right: 110px;
+}
+
+.yangi-bolim {
+    height: 900px;
+    width: 1300px;
+    padding: 50px 340px;
+}
+
+.bolim2 {
+    display: flex;
+}
+
+.boim-1 {
+    height: 1200px;
+    width: 1600px;
+    background-color: #000;
+    color: #FF8C42;
+}
+
+.matn {
+    width: 750px;
+    font-size: 66px;
+    padding: 0px 50px;
+    color: #fff;
+    /* text-align: center; */
+    /* background-color: #FF5B00; */
+}
+
+.matn2 {
+    color: #7B3000;
+}
+
+.mmm {
+    color: #7B3000;
+}
+
+.kkk {
+    background-color: #fff;
+    /* color: #000; */
+}
+
+.menu {
+    font-family: Kaushan Script;
+    font-size: 102px;
+    font-weight: 400;
+    line-height: 220.55px;
+    letter-spacing: 0.06 em;
+    padding: 0px 600px;
+}
+
+.kchik-matn {
+    width: 500px;
+    font-size: 46px;
+    /* padding: 0px 50px; */
+    color: #fff;
+}
+
+.big3 {
+    display: flex;
+    gap: 400px;
+}
+
+.joja{
+   height: 40px;
+   width: 200px;
+   color: #ffff;
+   border: 15px;
+   background-color: #7B3000;
+   border: none;
+
+
+}
